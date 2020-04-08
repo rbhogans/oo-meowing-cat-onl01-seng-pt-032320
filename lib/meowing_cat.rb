@@ -4,5 +4,5 @@ class Cat
 end
 
 
-  end
+  
   ## code your solution here. 
