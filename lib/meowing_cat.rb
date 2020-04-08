@@ -1,8 +1,8 @@
 class Cat 
    attr_accessor :cats_name
    cats_name= ebony
-    = Cat.new
-lassie.meow =("Meow")
+   ebony = Cat.new
+ebony.meow =("Meow")
  
 
  end
